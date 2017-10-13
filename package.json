@@ -1,0 +1,19 @@
+{
+  "name": "bluesound",
+  "version": "0.0.1",
+  "description": "Bluesound Alexa adapter",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "gulp test"
+  },
+  "author": "Rich Tebb",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-tape": "0.0.9",
+    "tap-colorize": "^1.2.0",
+    "tape": "^4.8.0",
+    "yargs": "^9.0.1"
+  }
+}
